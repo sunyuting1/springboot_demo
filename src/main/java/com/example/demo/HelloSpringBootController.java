@@ -18,6 +18,7 @@ public class HelloSpringBootController {
         list.add("3");
         list.add("4");
         list.add("5");
+
         return list.get(0);
     }
 }
